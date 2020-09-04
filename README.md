@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Siguiendo la guia y tutorial de GitHub para aprender a crear repositorios.
